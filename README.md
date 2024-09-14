@@ -21,15 +21,7 @@
 </tr>
 </table>
 
-<hr>
-<Div align="center">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-</Div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shuhaibahmed&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Shuhaibahmed&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
 
-<hr>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
