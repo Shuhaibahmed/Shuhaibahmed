@@ -4,11 +4,22 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shuhaibahmed&label=Profile%20views&color=0e75b6&style=flat" alt="shuhaibahmed" /> </p>
 
-- 🌱 I’m currently learning **OOP with Java**
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🌱 I’m currently learning ** OOP with Java **
 - 🧑‍🎓 I’m an Undergraduate at **IIT**
-
+- 💬 Ask me about ** Web development **
 - 📫 How to reach me **shuhaibahamed06@gmail.com**
-
+</td>
+<td width="50%" align="center">
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  
+  </td>
+</tr>
+</table>
+---
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/shuhaib-ahamed-87b0262b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuhaib-ahamed-87b0262b6" height="30" width="40" /></a>
