@@ -4,7 +4,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shuhaibahmed&label=Profile%20views&color=0e75b6&style=flat" alt="shuhaibahmed" /> </p>
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **OOP with Java**
+- 🧑‍🎓 I’m an Undergraduate at **IIT**
 
 - 📫 How to reach me **shuhaibahamed06@gmail.com**
 
