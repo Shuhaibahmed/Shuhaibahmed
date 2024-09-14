@@ -20,15 +20,14 @@
   </td>
 </tr>
 </table>
-
+<hr>
 
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shuhaibahmed&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="shu" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shuhaibahmed&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Shuhaibahmed&show_icons=true&locale=en&theme=chartreuse-dark" alt="shu" width="410" /></p>
 <br><br><br><br><br>
-
+<br>
 <hr>
 
 
