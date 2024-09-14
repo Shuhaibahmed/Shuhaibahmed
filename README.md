@@ -22,10 +22,10 @@
 ---
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/shuhaib-ahamed-87b0262b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuhaib-ahamed-87b0262b6" height="30" width="40" /></a>
-<a href="https://fb.com/shuhaibahmd21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shuhaibahmd21" height="40" width="50" /></a>
-<a href="https://instagram.com/_shuh_aib__ahmd_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shuh_aib__ahmd_" height="40" width="50" /></a>
-<a href="https://discord.gg/_shuh_aib__ahmd_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_shuh_aib__ahmd_" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/shuhaib-ahamed-87b0262b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuhaib-ahamed-87b0262b6" height="50" width="50" /></a>
+  <a href="https://fb.com/shuhaibahmd21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shuhaibahmd21" height="50" width="50" /></a>
+<a href="https://instagram.com/_shuh_aib__ahmd_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shuh_aib__ahmd_" height="50" width="50" /></a>
+<a href="https://discord.gg/_shuh_aib__ahmd_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_shuh_aib__ahmd_" height="50" width="50" /></a>
 </p>
 ---
 <h3 align="center">Languages and Tools:</h3>
