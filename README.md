@@ -17,11 +17,11 @@
 <br>
 <div align="center" >
  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaseenmunowwar&show_icons=true&locale=en&theme=algolia&border_radius=20)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shuhaibahmed&show_icons=true&locale=en&theme=algolia&border_radius=20)
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yaseenmunowwar&theme=algolia&border_radius=20)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shuhaibahmed&theme=algolia&border_radius=20)
 
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaseenmunowwar&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuhaibahmed&layout=compact&show_icons=true&theme=algolia&border_radius=20)
  </div> 
 
 <hr>
