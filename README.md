@@ -2,38 +2,19 @@
 <h1 align="center">Hi 👋, I'm Shuhaib Ahamed</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shuhaibahmed&label=Profile%20views&color=0e75b6&style=flat" alt="shuhaibahmed" /> </p>
 
-
-- 🌱 I’m currently learning ** OOP with Java **
-- 🧑‍🎓 I’m an Undergraduate at **IIT**
-- 💬 Ask me about ** Web development **
-- 📫 How to reach me **shuhaibahamed06@gmail.com**
+# 💫 About Me:
+ 🚀Building a powerful vocabulary app to enhance learning and language mastery.📚<br>🌱 I’m currently learning ** OOP with Java **<br>🧑‍🎓 I’m an Undergraduate at IIT<br>💬 Ask me about ** Web development **<br>📫 How to reach me shuhaibahamed06@gmail.com<br>
 
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/_shuh_aib__ahmd_) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://fb.com/shuhaibahmd21) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/_shuh_aib__ahmd_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/shuhaib-ahamed-87b0262b6) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<hr>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/> </a></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="figma" width="50" height="50"/> </a> </p>
-<br>
-<div align="center" >
- 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shuhaibahmed&show_icons=true&locale=en&theme=algolia&border_radius=20)
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shuhaibahmed&theme=algolia&border_radius=20)
-
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuhaibahmed&layout=compact&show_icons=true&theme=algolia&border_radius=20)
- </div> 
-
-<hr>
-
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/shuhaib-ahamed-87b0262b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuhaib-ahamed-87b0262b6" height="50" width="50" /></a>
-  <a href="https://fb.com/shuhaibahmd21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shuhaibahmd21" height="50" width="50" /></a>
-<a href="https://instagram.com/_shuh_aib__ahmd_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shuh_aib__ahmd_" height="50" width="50" /></a>
-<a href="https://discord.gg/_shuh_aib__ahmd_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_shuh_aib__ahmd_" height="50" width="50" /></a>
-</p>
-
-
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shuhaibahmed&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shuhaibahmed&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuhaibahmed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
