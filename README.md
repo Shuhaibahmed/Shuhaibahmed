@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shuhaibahmed&label=Profile%20views&color=0e75b6&style=flat" alt="shuhaibahmed" /> </p>
 
 # 💫 About Me:
- 🚀Building a powerful vocabulary app to enhance learning and language mastery.📚<br>🌱 I’m currently learning ** OOP with Java **<br>🧑‍🎓 I’m an Undergraduate at IIT<br>💬 Ask me about ** Web development **<br>📫 How to reach me shuhaibahamed06@gmail.com<br>
+ 🚀Building a powerful vocabulary app to enhance learning and language mastery.📚<br>🌱 I’m currently learning ** algorithms in java**<br>🧑‍🎓 I’m an Undergraduate at IIT<br>💬 Ask me about ** Web development **<br>📫 How to reach me shuhaibahamed06@gmail.com<br>
 
 
 ## 🌐 Socials:
