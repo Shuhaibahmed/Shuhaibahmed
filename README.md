@@ -5,8 +5,6 @@
 <h1 align="center">Hi 👋, I'm Shuhaib Ahamed</h1>
 <p align="center">Undergraduate at IIT | Web Developer | Java & Algorithms Enthusiast</p>
 
-
-
 ---
 
 ## 💡 About Me
