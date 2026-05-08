@@ -2,32 +2,94 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
 </p>
 
-<h1 align="center">Hi 👋, I'm Shuhaib Ahamed</h1>
-<p align="center">Undergraduate at IIT | Web Developer | Java & Algorithms Enthusiast</p>
----
+## Hi, I'm Shuhaib Ahamed 👋
 
-## 💡 About Me
-- 🚀 Building a vocabulary app  
-- 🌱 Learning Algorithms in Java  
-- 📫 shuhaibahamed06@gmail.com
+Software Engineering Undergraduate | Full-Stack Developer | Python Automation Enthusiast
 
----
+I’m a Software Engineering undergraduate based in Sri Lanka, passionate about building scalable web applications, automation tools, and solving real-world problems through clean and efficient software solutions.
 
-## 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff)
-![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=ffffff)
-![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=ffffff)
-![NodeJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=ffffff)
-![Spring Boot](https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=spring&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=ffffff)
-![Flutter](https://img.shields.io/badge/flutter-000000?style=for-the-badge&logo=flutter&logoColor=ffffff)
-![Figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff)
+Currently, I’m working as a Software Engineering Intern at NexoraAI, where I develop Python automation workflows, web scraping solutions, and backend integrations while continuously improving my full-stack development skills.
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shuhaibahmed&theme=dark&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuhaibahmed&theme=dark&layout=compact&hide_border=true)
+## 🚀 What I Do
+
+- Build responsive full-stack web applications using React & Next.js
+- Develop Python automation and web scraping tools with Selenium
+- Create REST API-based systems with secure authentication workflows
+- Design scalable frontend components and user-friendly interfaces
+- Debug, optimize, and improve application performance
+- Work with AI-assisted development tools for faster development workflows
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React.js
+- Next.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+### Backend / Databases
+- Node.js
+- REST APIs
+- SQL
+- MongoDB
+
+### Tools & Platforms
+- Python
+- Java
+- Selenium
+- Postman
+- Git & GitHub
+- API Integration
+- Debugging
+- SDLC
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 E-commerce Web Application for Mobile Shop
+Full-stack e-commerce platform with authentication and admin dashboard.
+
+- Developed secure authentication and role-based access
+- Built REST APIs for products, orders, and user management
+- Integrated payment gateway for secure transactions
+- Designed responsive UI for mobile and desktop users
+
+**Tech Stack:** Next.js, REST APIs, SQL
+
+---
+
+### 🔹 Web Scraping Automation Tool
+Python-based automation system for extracting structured web data.
+
+- Automated data extraction from dynamic websites using Selenium
+- Implemented XPath & CSS selectors for precise scraping
+- Added logging, retry mechanisms, and error handling
+- Exported data into CSV and JSON formats
+
+**Tech Stack:** Python, Selenium
+
+---
+
+## 🎓 Education
+
+### BEng (Hons) Software Engineering
+**Informatics Institute of Technology**  
+(University of Westminster Affiliated)  
+2023 – 2027
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: www.linkedin.com/in/shuhaib-ahamed
+- 📫 Email: shuhaibahamed06@gmail.com
+
+---
+
+> I enjoy building software that is practical, scalable, and user-focused while continuously learning new technologies and improving my engineering skills.
